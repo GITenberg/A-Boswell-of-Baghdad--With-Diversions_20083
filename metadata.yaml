@@ -1,0 +1,31 @@
+_repo: A-Boswell-of-Baghdad--With-Diversions_20083
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lucas, E. V. (Edward Verrall)
+    aliases:
+    - Lucas, E.V.
+    - Lucas, Edward Verrall
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '818'
+    url: http://www.gutenberg.org/2009/agents/818
+    wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+description: A Boswell of Baghdad. -- Diversions. -- On Bellona's hem (second series).
+gutenberg_issued: '2006-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ibn Khallikan, 1211-1282. Wafayat al-a''yan'
+tableOfContents: A Boswell of Baghdad -- Diversions -- On Bellona's hem.
+title: A Boswell of Baghdad; With Diversions
+url: http://www.gutenberg.org/ebooks/20083
